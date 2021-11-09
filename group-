@@ -54,5 +54,5 @@ mlocate:x:114:
 admin:x:115:
 ntp:x:116:
 ubuntu:x:1000:marryneedle73
-google-sudoers:x:1001:
+google-sudoers:x:1001:ubuntu
 marryneedle73:x:1002:
